@@ -1,0 +1,40 @@
+2024-01-16 20:05:19,009 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-01-16 20:05:24,687 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-01-16 20:05:24,695 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-01-16 20:05:32,611 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-01-16 20:05:32,616 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-01-16 20:05:37,896 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials by providing valid credentails
+2024-01-16 20:05:37,898 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-01-16 20:05:39,936 INFO c.s.a.s.ActiTimeStepDefinition [main] The Validation of Display of Home Page has matched successfulyy
+2024-01-16 20:05:39,937 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window
+2024-01-16 20:05:42,005 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window has performed successfully
+2024-01-16 20:05:42,007 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-01-16 20:05:44,566 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-01-16 20:05:44,567 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-01-16 20:05:46,589 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-01-16 20:05:46,591 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-01-16 20:05:46,741 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
+2024-01-16 20:05:46,752 INFO c.s.a.s.ActiTimeStepDefinition [main] Launch the application
+2024-01-16 20:05:50,187 INFO c.s.a.s.ActiTimeStepDefinition [main] The Application has launched successfully
+2024-01-16 20:05:50,189 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application
+2024-01-16 20:05:55,886 INFO c.s.a.s.ActiTimeStepDefinition [main] Navigate to the url of the application has performed successfully
+2024-01-16 20:05:55,887 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials
+2024-01-16 20:06:01,109 INFO c.s.a.s.ActiTimeStepDefinition [main] Login using valid credentials by providing valid credentails
+2024-01-16 20:06:01,110 INFO c.s.a.s.ActiTimeStepDefinition [main] the Home page should display
+2024-01-16 20:06:03,136 INFO c.s.a.s.ActiTimeStepDefinition [main] The Validation of Display of Home Page has matched successfulyy
+2024-01-16 20:06:03,137 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window
+2024-01-16 20:06:05,206 INFO c.s.a.s.ActiTimeStepDefinition [main] minimize the flyout Window has performed successfully
+2024-01-16 20:06:05,208 INFO c.s.a.s.ActiTimeStepDefinition [main] Create an User
+2024-01-16 20:06:35,292 INFO c.s.a.s.ActiTimeStepDefinition [main] Create an User action has performed successfully
+2024-01-16 20:06:35,292 INFO c.s.a.s.ActiTimeStepDefinition [main] User should create successfully
+2024-01-16 20:06:35,343 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of User Creation has performed successfully 
+2024-01-16 20:06:35,345 INFO c.s.a.s.ActiTimeStepDefinition [main] delete the user
+2024-01-16 20:06:41,492 INFO c.s.a.s.ActiTimeStepDefinition [main] delete the user step has performed successfully
+2024-01-16 20:06:41,493 INFO c.s.a.s.ActiTimeStepDefinition [main] the user should delete
+2024-01-16 20:06:41,502 INFO c.s.a.s.ActiTimeStepDefinition [main] the user should delete, action has performed successfully
+2024-01-16 20:06:41,503 INFO c.s.a.s.ActiTimeStepDefinition [main] Perform logout action
+2024-01-16 20:06:43,726 INFO c.s.a.s.ActiTimeStepDefinition [main] Performing logout action has done successfully
+2024-01-16 20:06:43,727 INFO c.s.a.s.ActiTimeStepDefinition [main] the login page should display
+2024-01-16 20:06:45,743 INFO c.s.a.s.ActiTimeStepDefinition [main] Validation of login page display
+2024-01-16 20:06:45,744 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application Browser
+2024-01-16 20:06:45,874 INFO c.s.a.s.ActiTimeStepDefinition [main] Close Application has done succesfully
